@@ -1,0 +1,24 @@
+.input-group .form-control, form button {
+    margin-bottom: 10px;
+}
+.erro {
+    margin: 15px 2px;   
+    display:block;
+    clear:both;
+    padding: 6px 6px 0;
+    background-color: white;
+    border: 1px solid red;
+}
+.erro > p {
+    padding-left: 3px;
+    font-weight: bold;
+    color: red;
+    border-left: 2px solid white;
+    
+}
+table {
+    margin-top: 20px;
+}
+.tabela--totais * {
+    font-weight: bold;
+}
