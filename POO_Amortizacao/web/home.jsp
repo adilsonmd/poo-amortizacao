@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <a href="amortizacao-americana.jsp"><h3>Amortização Americana</h3></a>
         <a href="amortizacao-constante.jsp"><h3>Amortização constante</h3></a>
     </body>
 </html>
